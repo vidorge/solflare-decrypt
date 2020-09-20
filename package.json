@@ -9,7 +9,10 @@
   "author": "Vidor Gencel <vidorge@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "@solana/web3.js": "^0.76.0",
     "aes-js": "^3.1.2",
+    "crypto-random-string": "^3.3.0",
+    "fs-utils": "^0.7.0",
     "pbkdf2": "^3.1.1"
   }
 }
